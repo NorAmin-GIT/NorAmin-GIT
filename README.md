@@ -89,9 +89,9 @@ Description coming soon...
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NorAmin-GIT\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NorAmin-GIT&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NorAmin-GIT\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NorAmin-GIT&layout=compact)
 
 ---
 
